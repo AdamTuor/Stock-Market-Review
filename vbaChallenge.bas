@@ -1,5 +1,3 @@
-Attribute VB_Name = "Module11"
-
 Sub stocks()
     
     Dim ticker() As String
